@@ -1,0 +1,52 @@
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.deps.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.runtimeconfig.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.runtimeconfig.dev.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.csprojAssemblyReference.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.AssemblyInfoInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.AssemblyInfo.cs
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.csproj.CopyComplete
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRose.Tests\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.deps.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.runtimeconfig.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.runtimeconfig.dev.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.csprojAssemblyReference.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.AssemblyInfoInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.AssemblyInfo.cs
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.csproj.CopyComplete
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.deps.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.runtimeconfig.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.runtimeconfig.dev.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRose.Tests.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.csprojAssemblyReference.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.AssemblyInfoInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.AssemblyInfo.cs
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.csproj.CopyComplete
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRose.Tests\obj\Debug\netcoreapp2.1\GildedRose.Tests.pdb

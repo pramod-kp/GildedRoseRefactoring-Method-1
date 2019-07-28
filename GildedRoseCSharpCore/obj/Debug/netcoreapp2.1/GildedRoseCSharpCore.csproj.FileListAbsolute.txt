@@ -1,0 +1,34 @@
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.deps.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.runtimeconfig.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.runtimeconfig.dev.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.csproj.CoreCompileInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.AssemblyInfoInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.AssemblyInfo.cs
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.csprojAssemblyReference.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.deps.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.runtimeconfig.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.runtimeconfig.dev.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.csproj.CoreCompileInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.AssemblyInfoInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.AssemblyInfo.cs
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 2\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.csprojAssemblyReference.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.deps.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.runtimeconfig.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.runtimeconfig.dev.json
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\bin\Debug\netcoreapp2.1\GildedRoseCSharpCore.pdb
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.csprojAssemblyReference.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.csproj.CoreCompileInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.AssemblyInfoInputs.cache
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.AssemblyInfo.cs
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.dll
+C:\Users\kp pramod\source\repos\GildedRoseCSharpCore - Method 1\GildedRoseCSharpCore\obj\Debug\netcoreapp2.1\GildedRoseCSharpCore.pdb
